@@ -99,3 +99,41 @@ img
 	margin-top: 32px;
 
 }
+
+.image-upload
+{
+	float: right;
+}
+
+.image-submit
+
+{
+
+	float :right;
+	
+}
+
+.glyphicon
+{
+	display: inline-block;
+	position: absolute;
+	top: 280px;
+
+	/*float: right;*/
+	margin-left: 160px;
+	/*margin-bottom: 620px;*/
+	font-size: 36px;
+	/*float: right;*/
+
+}
+
+#image-caption 
+{	
+	position :absolute;
+	top :310px;
+	margin-left: 74px;
+	color: #104D8C;
+	/*margin-bottom: 620px;	*/
+	/*float: right;*/
+
+}
